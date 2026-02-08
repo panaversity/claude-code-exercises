@@ -6,12 +6,19 @@ No programming knowledge required. Just curiosity and clear thinking.
 
 ---
 
-## Two Packs, One Progression
+## Three Checkpoints, One Progression
 
-| Pack                   | What You Learn                                         | When to Start                  | Exercises                  |
-| ---------------------- | ------------------------------------------------------ | ------------------------------ | -------------------------- |
-| **[basics/](basics/)** | Solve real problems with Claude using natural language | After Ch3 Lesson 5 (CLAUDE.md) | 21 exercises + 3 capstones |
-| **[skills/](skills/)** | Turn solutions into reusable skills and patterns       | After Ch3 Lesson 9 (Subagents) | 21 exercises + 3 capstones |
+```
+Ch3 L04 Hello World  -->  basics/ Modules 1-4  (one-shot problem solving)
+Ch3 L05 CLAUDE.md    -->  basics/ Modules 5-8  (systematic problem solving)
+Ch3 L09 Subagents    -->  skills/ Modules 1-8  (reusable problem solving)
+```
+
+| Pack                   | Modules | What You Learn                                     | When to Start           | Exercises                  |
+| ---------------------- | ------- | -------------------------------------------------- | ----------------------- | -------------------------- |
+| **[basics/](basics/)** | M1-M4   | Solve one-shot problems with natural language      | After L04 (Hello World) | 12 exercises               |
+| **[basics/](basics/)** | M5-M8   | Systematic problem solving with persistent context | After L05 (CLAUDE.md)   | 9 exercises + 3 capstones  |
+| **[skills/](skills/)** | M1-M8   | Turn solutions into reusable skills and patterns   | After L09 (Subagents)   | 21 exercises + 3 capstones |
 
 **basics/** teaches you to describe problems clearly so Claude can solve them.
 **skills/** teaches you to package solutions so they work every time.
