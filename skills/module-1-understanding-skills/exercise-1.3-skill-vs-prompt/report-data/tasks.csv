@@ -1,0 +1,9 @@
+task_id,task_name,owner,status,priority,due_date
+T-201,Migrate user database to new schema,Sara,Completed,High,2025-02-05
+T-202,Design onboarding flow v2,Ahmed,In Progress,High,2025-02-12
+T-203,Fix payment timeout on mobile,Ali,Completed,Critical,2025-02-04
+T-204,Write Q1 marketing plan,Fatima,In Progress,Medium,2025-02-14
+T-205,Set up error monitoring dashboard,Sara,In Progress,Medium,2025-02-10
+T-206,Conduct 5 user interviews,Ahmed,Blocked,High,2025-02-07
+T-207,Security audit prep documents,Ali,Not Started,High,2025-02-15
+T-208,Prepare investor update slides,Omar,Overdue,Critical,2025-02-03

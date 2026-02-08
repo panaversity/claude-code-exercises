@@ -1,0 +1,16 @@
+FRESH MART GROCERY
+123 Main Street
+Date: 2025-01-15
+
+Organic Bananas      $2.49
+Whole Milk 1gal      $4.99
+Chicken Breast 2lb   $12.98
+Brown Rice 5lb       $6.49
+Broccoli             $3.29
+Olive Oil            $8.99
+Eggs (dozen)         $5.49
+
+Subtotal:           $44.72
+Tax:                 $1.34
+TOTAL:              $46.06
+Paid: Debit Card ****4521

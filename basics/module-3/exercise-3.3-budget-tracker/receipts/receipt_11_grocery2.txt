@@ -1,0 +1,17 @@
+FRESH MART GROCERY
+123 Main Street
+Date: 2025-01-28
+
+Apples (bag)          $4.99
+Yogurt (6-pack)       $5.49
+Salmon Fillet         $14.99
+Spinach               $3.49
+Pasta                 $2.29
+Tomato Sauce          $3.99
+Cheese                $6.49
+Bread                 $4.29
+
+Subtotal:           $46.02
+Tax:                  $0.92
+TOTAL:              $46.94
+Paid: Debit Card ****4521

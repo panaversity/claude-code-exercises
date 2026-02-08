@@ -1,0 +1,10 @@
+Subject: Any plans for Slack integration?
+
+Hey there,
+
+Love the product so far! Quick question — are you planning to add a Slack integration? It would be amazing to get notifications in our team channel when tasks are completed or when someone leaves a comment.
+
+We're currently using your tool for our 15-person team and this would make a big difference.
+
+Cheers,
+Omar

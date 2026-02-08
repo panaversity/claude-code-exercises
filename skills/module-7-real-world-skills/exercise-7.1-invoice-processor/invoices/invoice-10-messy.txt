@@ -1,0 +1,17 @@
+INVOICE
+
+from: Ali's Computer Repair
+123 Tech Street
+Lahore
+
+date: sometime in february 2025 (sorry, forgot exact date)
+
+fixed laptop screen — 8000
+replaced keyboard — 4500
+new battery — 3500
+labor — 2000
+
+i think total is 18,000 PKR?
+
+no invoice number, this is the first time i'm making one
+payment: already paid by bank transfer

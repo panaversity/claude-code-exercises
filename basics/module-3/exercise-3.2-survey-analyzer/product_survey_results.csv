@@ -1,0 +1,61 @@
+respondent_id,age_range,location,role,experience_years,q1_ease_of_use,q2_documentation,q3_performance,q4_support,q5_value_for_money,q6_recommend_likelihood,open_feedback
+R001,18-24,North America,Student,4-6,3,2,3,2,1,5,Love the product! Use it every day for my team's workflows.
+R002,18-24,Europe,Designer,10+,5,2,5,3,4,3,The mobile app is terrible. Crashes constantly on Android.
+R003,18-24,Europe,Student,7-10,4,3,3,3,3,3,
+R004,18-24,Asia,Manager,10+,4,2,5,5,1,4,
+R005,35-44,Africa,Freelancer,4-6,5,2,1,1,2,3,Wish there was better integration with Google Workspace.
+R006,18-24,South America,Manager,7-10,5,3,3,4,3,3,Great performance but the UI feels outdated compared to competitors.
+R007,55+,Africa,Designer,10+,2,2,4,4,3,5,Onboarding was confusing. Took our team 3 weeks to get comfortable.
+R008,18-24,Europe,Developer,4-6,5,3,3,2,4,3,Need more customization options for reports and dashboards.
+R009,45-54,Europe,Manager,2-3,2,5,5,3,5,4,Need more customization options for reports and dashboards.
+R010,35-44,Europe,Designer,10+,4,1,1,1,2,2,The free tier is surprisingly generous. Great for getting started.
+R011,55+,North America,Executive,7-10,5,4,5,4,5,3,Support team was very responsive when I had issues. Impressed!
+R012,55+,Asia,Student,4-6,1,3,4,2,4,1,The mobile app is terrible. Crashes constantly on Android.
+R013,55+,Europe,Freelancer,0-1,3,5,5,2,2,3,The pricing change was unexpected and poorly communicated.
+R014,55+,North America,Freelancer,4-6,4,1,1,3,3,2,
+R015,55+,North America,Developer,7-10,2,2,3,4,5,5,
+R016,55+,Middle East,Executive,2-3,5,5,5,3,5,4,The API is excellent. We've built several custom integrations.
+R017,45-54,Middle East,Executive,0-1,3,3,3,4,3,5,Solid product overall. A few rough edges but nothing deal-breaking.
+R018,25-34,North America,Developer,0-1,3,1,3,3,2,5,Love the collaboration features. Real-time editing is game-changing.
+R019,25-34,Middle East,Designer,10+,5,4,2,4,4,2,
+R020,45-54,Asia,Executive,7-10,4,5,3,5,5,5,
+R021,45-54,Africa,Manager,0-1,2,2,2,5,4,2,The mobile app is terrible. Crashes constantly on Android.
+R022,45-54,Europe,Developer,7-10,2,1,5,4,2,3,Wish there was better integration with Google Workspace.
+R023,25-34,South America,Executive,7-10,3,4,3,3,4,3,The mobile app is terrible. Crashes constantly on Android.
+R024,45-54,Asia,Executive,10+,5,5,4,3,3,4,Documentation needs serious improvement. Spent hours figuring out basic features.
+R025,55+,Africa,Freelancer,0-1,3,1,1,5,4,5,Too many features — feels bloated. I just need the basics to work well.
+R026,25-34,North America,Freelancer,0-1,2,1,5,1,2,4,
+R027,55+,Europe,Freelancer,10+,1,5,1,4,5,5,The mobile app is terrible. Crashes constantly on Android.
+R028,25-34,Africa,Student,4-6,2,3,4,2,3,4,Great performance but the UI feels outdated compared to competitors.
+R029,18-24,South America,Freelancer,10+,3,2,5,3,3,3,Great performance but the UI feels outdated compared to competitors.
+R030,25-34,Asia,Manager,2-3,4,5,3,5,5,1,The pricing change was unexpected and poorly communicated.
+R031,35-44,Africa,Developer,2-3,4,1,3,4,3,4,Perfect for small teams. Not sure it scales for larger organizations.
+R032,35-44,Europe,Student,4-6,5,4,3,1,1,4,Documentation needs serious improvement. Spent hours figuring out basic features.
+R033,18-24,Asia,Designer,4-6,3,4,4,5,1,3,
+R034,25-34,Middle East,Developer,4-6,3,4,3,2,4,4,Documentation needs serious improvement. Spent hours figuring out basic features.
+R035,35-44,Europe,Student,2-3,1,3,5,4,5,2,Wish there was better integration with Google Workspace.
+R036,25-34,Europe,Executive,0-1,3,5,4,4,5,5,The mobile app is terrible. Crashes constantly on Android.
+R037,25-34,Africa,Developer,7-10,2,4,3,2,5,4,Wish there was better integration with Google Workspace.
+R038,25-34,North America,Student,2-3,4,3,3,1,3,3,Need more customization options for reports and dashboards.
+R039,55+,Asia,Developer,0-1,4,2,5,3,2,3,The API is excellent. We've built several custom integrations.
+R040,35-44,South America,Freelancer,10+,1,4,5,2,3,1,Love the product! Use it every day for my team's workflows.
+R041,55+,Middle East,Student,2-3,3,4,1,3,5,3,Support team was very responsive when I had issues. Impressed!
+R042,35-44,Middle East,Manager,7-10,3,4,3,5,2,2,Need more customization options for reports and dashboards.
+R043,25-34,Middle East,Freelancer,4-6,4,5,1,3,3,2,Solid product overall. A few rough edges but nothing deal-breaking.
+R044,55+,Africa,Manager,7-10,4,4,2,5,4,2,Best tool I've used in this category. Worth every penny.
+R045,55+,Africa,Student,10+,3,1,2,3,2,2,
+R046,18-24,Europe,Executive,10+,3,4,4,5,5,3,Need more customization options for reports and dashboards.
+R047,45-54,South America,Designer,2-3,1,1,4,2,2,5,The pricing change was unexpected and poorly communicated.
+R048,25-34,North America,Executive,2-3,4,5,5,5,5,4,Customer support response time has gotten worse over the last 6 months.
+R049,55+,Africa,Freelancer,7-10,5,4,2,4,4,3,The mobile app is terrible. Crashes constantly on Android.
+R050,55+,South America,Student,2-3,3,4,1,3,2,3,The pricing change was unexpected and poorly communicated.
+R051,18-24,Europe,Designer,2-3,4,4,3,3,1,4,The pricing change was unexpected and poorly communicated.
+R052,45-54,South America,Developer,2-3,5,4,5,4,2,5,Love the product! Use it every day for my team's workflows.
+R053,35-44,Asia,Executive,7-10,5,5,5,5,5,3,The mobile app is terrible. Crashes constantly on Android.
+R054,45-54,South America,Developer,7-10,4,4,5,2,5,3,The pricing change was unexpected and poorly communicated.
+R055,18-24,South America,Freelancer,10+,5,2,3,5,2,4,
+R056,35-44,South America,Manager,2-3,4,3,3,4,3,4,Great performance but the UI feels outdated compared to competitors.
+R057,45-54,North America,Student,10+,1,3,2,1,1,1,Perfect for small teams. Not sure it scales for larger organizations.
+R058,18-24,Middle East,Designer,2-3,3,3,5,2,2,4,The API is excellent. We've built several custom integrations.
+R059,25-34,Middle East,Freelancer,0-1,2,3,1,5,1,3,Need more customization options for reports and dashboards.
+R060,45-54,Africa,Designer,0-1,5,2,1,3,5,1,Solid product overall. A few rough edges but nothing deal-breaking.

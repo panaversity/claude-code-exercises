@@ -1,0 +1,8 @@
+metric,february,january,unit
+Revenue,56800,52300,USD
+Active Users,16400,15200,users
+New Signups,488,425,users
+Churn Rate,1.9,2.1,percent
+CSAT Score,4.4,4.3,out of 5
+API Uptime,99.97,99.85,percent
+Support Response Time,3.2,3.8,hours

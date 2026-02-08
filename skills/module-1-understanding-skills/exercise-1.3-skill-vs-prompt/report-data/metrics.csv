@@ -1,0 +1,9 @@
+metric,current_week,previous_week,unit
+Monthly Active Users,15200,14500,users
+New Signups,425,380,users
+Revenue,52300,49800,USD
+API Response Time,180,240,ms
+Customer Satisfaction,4.3,4.1,out of 5
+Support Tickets Open,34,41,tickets
+Deployment Frequency,8,6,per week
+Bug Escape Rate,1.2,1.8,percent

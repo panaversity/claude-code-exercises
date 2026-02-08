@@ -1,0 +1,26 @@
+Hiring Sync — Feb 13, 2025, 10:00 AM
+people: Ali, Omar (HR), Sara
+
+discussing the 2 open engineering positions
+
+sara: we need a senior backend dev and a frontend person. the backend role is more urgent — we're bottlenecked on API work
+
+omar: we've gotten 45 applications for backend, 28 for frontend. i've screened them down to 8 backend and 5 frontend candidates for technical interviews
+
+ali: timeline? we need someone by end of march ideally
+
+omar: if we do interviews next week, we could have offers out by feb 28. factoring in notice periods, earliest start would be mid-march for backend, maybe late march for frontend
+
+sara: can I see the backend shortlist today? I want to prioritize the ones with distributed systems experience
+
+omar: i'll share it by EOD
+
+discussion about whether to use a take-home test or live coding interview. sara prefers live coding because it's faster and you can see how people think. omar worried about candidate experience. they compromised: 30-min live coding + 30-min system design discussion
+
+ali mentioned budget: approved for up to 120K for the senior backend role. frontend budget is 90K. omar said that's competitive for the market
+
+omar will schedule backend interviews for feb 18-20. frontend interviews the following week.
+
+sara asked about intern positions for summer. ali said to table that for the march planning session.
+
+Meeting ended 10:35 AM. Next sync: Feb 20 (after first round of interviews).

@@ -1,0 +1,34 @@
+Sprint Review — Feb 19, 2025, 3:00 PM
+Attendees: Ali, Sara, Ahmed, Fatima, Omar
+
+sara demoed the new search feature. search results now return in under 200ms (was 800ms). team applauded.
+
+ahmed showed the redesigned settings page. ali liked it but suggested moving the notification preferences to a more prominent position. ahmed agreed and will update by friday.
+
+fatima presented the Q1 marketing metrics:
+- blog traffic up 40% quarter over quarter
+- 3 posts went "mini-viral" on LinkedIn (>10K impressions each)
+- email open rates steady at 32%
+
+discussion about the upcoming product launch (march 15):
+- sara: engineering is ready, all critical bugs fixed
+- ahmed: design assets done, just needs final copy from fatima
+- fatima: launch blog post drafted, needs review from ali
+- omar: sales enablement materials needed by march 5
+
+ali raised concern about documentation — it's outdated. nobody's updated the API docs since november. sara said she'll assign someone but it's low priority compared to the launch.
+
+random sidebar about the office snack situation. ali will order new snacks.
+
+decisions:
+1. launch stays on march 15
+2. documentation update deferred to post-launch sprint
+3. weekly launch readiness check-ins starting next week
+
+action items:
+ahmed — move notification preferences in settings page — by feb 21
+fatima — send final launch copy to ahmed — by feb 24
+ali — review fatima's launch blog post — by feb 24
+omar — prepare sales enablement deck — by march 5
+sara — create documentation update ticket for post-launch — by feb 21
+ali — order office snacks — by feb 20

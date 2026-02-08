@@ -1,0 +1,10 @@
+JAVA JUNCTION CAFE
+Date: January 16, 2025
+
+Latte Grande          $5.50
+Blueberry Muffin      $3.75
+
+Total:                $9.25
+Tip:                  $2.00
+Charged:             $11.25
+Visa ending 8832

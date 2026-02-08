@@ -1,0 +1,13 @@
+CITY POWER ELECTRIC
+Account: 445-221-8834
+Billing Period: Dec 15, 2024 - Jan 15, 2025
+
+Electricity Usage: 820 kWh
+Rate: $0.12/kWh
+Usage Charge:        $98.40
+Service Fee:         $12.50
+Tax:                  $8.87
+
+Total Due:          $119.77
+Due Date: Feb 1, 2025
+Auto-pay: Checking ****6789

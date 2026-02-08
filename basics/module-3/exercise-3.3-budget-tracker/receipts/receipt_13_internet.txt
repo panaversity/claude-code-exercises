@@ -1,0 +1,9 @@
+SPEEDNET INTERNET
+Account: ISP-99281
+Billing: January 2025
+
+Fiber 500 Plan:      $69.99
+Router Rental:        $10.00
+
+Total:               $79.99
+Auto-pay: Checking ****6789

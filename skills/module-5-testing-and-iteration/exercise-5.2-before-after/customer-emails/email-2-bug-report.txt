@@ -1,0 +1,10 @@
+Subject: Export to PDF not working
+
+Hi support team,
+
+I've been trying to export my monthly report to PDF for the last 2 hours. Every time I click the export button, it gets stuck at 90% and then shows an error message that says 'Export failed: timeout.' I've tried on Chrome and Firefox, same issue.
+
+This is blocking me from sending my report to the board, which is due tomorrow morning.
+
+Thanks,
+Sara

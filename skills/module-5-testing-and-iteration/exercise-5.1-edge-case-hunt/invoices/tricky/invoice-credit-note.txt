@@ -1,0 +1,12 @@
+ACME CORPORATION
+CREDIT NOTE #CN-2025-003
+Date: February 25, 2025
+Reference: Original Invoice #INV-2025-001
+
+Credit for overcharged SSL certificates (billed 2, should be 1):
+
+SSL Certificate refund: -$49.99
+Tax adjustment: -$4.00
+Total Credit: -$53.99
+
+This amount will be applied to your next invoice.

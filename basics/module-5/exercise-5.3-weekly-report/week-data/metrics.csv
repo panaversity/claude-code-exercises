@@ -1,0 +1,11 @@
+metric,current_week,previous_week,unit
+Active Users,12450,11800,users
+New Signups,342,298,users
+Revenue,48500,45200,USD
+Churn Rate,2.1,2.4,percent
+Support Tickets,89,102,tickets
+Avg Response Time,4.2,5.1,hours
+Page Load Time,1.8,2.3,seconds
+Uptime,99.95,99.87,percent
+NPS Score,42,38,points
+Bug Reports,15,23,reports

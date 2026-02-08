@@ -1,0 +1,13 @@
+Amazon.com Order Confirmation
+Order #112-7654321-0000000
+Date: January 20, 2025
+
+USB-C Charging Cable (3-pack)    $12.99
+Wireless Mouse                   $24.99
+Laptop Stand                     $34.99
+
+Subtotal:                        $72.97
+Shipping:                         $0.00 (Prime)
+Tax:                              $6.02
+Order Total:                     $78.99
+Paid: Visa ****8832

@@ -1,0 +1,14 @@
+Büroservice München GmbH
+Rechnung: BSM-2025-0234
+Datum: 15.02.2025
+Zahlungsziel: 15.03.2025
+
+Virtuelle Büro-Adresse (Monat): €350,00
+Postweiterleitung: €45,00
+Telefonservice: €120,00
+
+Netto: €515,00
+USt. (19%): €97,85
+Brutto: €612,85
+
+Währung: EUR

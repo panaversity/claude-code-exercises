@@ -1,0 +1,35 @@
+Enterprise Solutions Inc.
+Master Invoice: ES-2025-Q1
+Period: January 1 - March 31, 2025
+Date Issued: April 1, 2025
+Due: April 30, 2025
+
+This invoice consolidates 3 months of services:
+
+January 2025:
+- Platform License: $5,000.00
+- Support Hours (12h @ $150/hr): $1,800.00
+- Data Storage (500GB): $250.00
+January Subtotal: $7,050.00
+
+February 2025:
+- Platform License: $5,000.00
+- Support Hours (8h @ $150/hr): $1,200.00
+- Data Storage (500GB): $250.00
+- Custom Integration Work: $3,500.00
+February Subtotal: $9,950.00
+
+March 2025:
+- Platform License: $5,000.00
+- Support Hours (15h @ $150/hr): $2,250.00
+- Data Storage (750GB): $375.00
+March Subtotal: $7,625.00
+
+Q1 Subtotal: $24,625.00
+Volume Discount (5%): -$1,231.25
+Net Subtotal: $23,393.75
+Tax (8.25%): $1,929.98
+GRAND TOTAL: $25,323.73
+
+Currency: USD
+PO Number: PAN-2025-Q1-001

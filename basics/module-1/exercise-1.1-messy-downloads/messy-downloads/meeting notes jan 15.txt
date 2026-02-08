@@ -1,0 +1,5 @@
+Team standup - discussed roadmap priorities
+- API redesign timeline
+- Hiring plan for Q2
+- Budget approval pending
+Action: Sarah to send updated timeline by Friday

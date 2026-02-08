@@ -1,0 +1,11 @@
+student_name,course_name,grade,percentage,completion_date,instructor_name,cert_id
+Ali Hassan,AI Fundamentals,A,94,2025-01-15,Dr. Zia Khan,CERT-2025-001
+Sara Ahmed,AI Fundamentals,A+,98,2025-01-15,Dr. Zia Khan,CERT-2025-002
+Ahmed Raza,AI Fundamentals,B+,87,2025-01-15,Dr. Zia Khan,CERT-2025-003
+Fatima Malik,Web Development Bootcamp,A,92,2025-01-20,Prof. Omar Ali,CERT-2025-004
+Omar Sheikh,Web Development Bootcamp,A-,90,2025-01-20,Prof. Omar Ali,CERT-2025-005
+Zara Khan,Data Science Essentials,A+,97,2025-01-25,Dr. Priya Sharma,CERT-2025-006
+Hassan Ali,Data Science Essentials,B,83,2025-01-25,Dr. Priya Sharma,CERT-2025-007
+Maryam Fatima,Cloud Computing,A,95,2025-01-30,Eng. Bilal Ahmed,CERT-2025-008
+Bilal Hussain,Cloud Computing,B+,88,2025-01-30,Eng. Bilal Ahmed,CERT-2025-009
+Ayesha Siddiqui,AI Fundamentals,A-,91,2025-01-15,Dr. Zia Khan,CERT-2025-010

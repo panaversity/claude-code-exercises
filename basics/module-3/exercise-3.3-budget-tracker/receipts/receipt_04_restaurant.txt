@@ -1,0 +1,16 @@
+THE OLIVE GARDEN
+Receipt #: 88201
+Date: 01/18/2025
+Server: Maria
+
+Bruschetta            $8.99
+Chicken Alfredo      $16.99
+Caesar Salad          $7.99
+Iced Tea x2           $5.98
+Tiramisu              $8.49
+
+Subtotal:           $48.44
+Tax (8.25%):         $4.00
+Tip:                $10.00
+TOTAL:              $62.44
+Visa ****8832

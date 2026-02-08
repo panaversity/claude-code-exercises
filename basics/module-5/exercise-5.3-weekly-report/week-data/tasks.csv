@@ -1,0 +1,13 @@
+task_id,task_name,owner,status,priority,due_date,created_date
+T-101,Fix login authentication bug,Sara,Completed,High,2025-02-03,2025-01-27
+T-102,Design new landing page mockups,Ahmed,In Progress,Medium,2025-02-07,2025-01-28
+T-103,Write API documentation,Ali,In Progress,Medium,2025-02-05,2025-01-29
+T-104,Set up monitoring alerts,Sara,Completed,High,2025-02-04,2025-01-30
+T-105,User research interviews (5 users),Fatima,In Progress,High,2025-02-07,2025-01-31
+T-106,Database migration planning,Ali,Not Started,Medium,2025-02-10,2025-02-01
+T-107,Prepare Q1 board presentation,Omar,Overdue,Critical,2025-02-03,2025-01-25
+T-108,Performance optimization - page load,Sara,In Progress,High,2025-02-12,2025-02-01
+T-109,Social media content calendar,Fatima,Completed,Low,2025-02-05,2025-01-28
+T-110,Onboard two new team members,Omar,In Progress,Medium,2025-02-14,2025-02-03
+T-111,Security audit preparation,Ali,Not Started,High,2025-02-14,2025-02-03
+T-112,Customer feedback analysis report,Fatima,Overdue,Medium,2025-02-04,2025-01-29

@@ -1,0 +1,6 @@
+vendor,invoice_number,date,due_date,subtotal,tax,total,currency
+CloudHost Pro,CH-2025-0100,2025-02-01,2025-03-01,190.00,15.20,205.20,USD
+DesignTools Inc.,DT-44521,2025-02-05,2025-03-05,234.97,0.00,234.97,USD
+Marketing Analytics Co.,MA-2025-Feb,2025-02-10,2025-02-25,1250.00,81.25,1331.25,USD
+Office Supplies Direct,OSD-998877,2025-02-12,2025-02-26,293.81,20.57,314.38,USD
+Ayesha Siddiqui (Freelance Writer),AS-2025-008,2025-02-15,2025-03-01,950.00,0.00,950.00,USD

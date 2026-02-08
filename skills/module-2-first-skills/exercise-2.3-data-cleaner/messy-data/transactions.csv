@@ -1,0 +1,11 @@
+transaction_id,customer_name,date,amount,currency,category,status
+TXN001,John Smith,01/15/2025,49.99,USD,subscription,completed
+TXN002,jane doe,2025-01-16,$29.99,USD,one-time,completed
+TXN003,BOB JONES,"Jan 17, 2025",99.99,usd,Subscription,Completed
+TXN004,Alice Williams,2025-1-20,199.99,USD,subscription,pending
+TXN005,John Smith,01/15/2025,49.99,USD,subscription,completed
+TXN006,Charlie Brown,January 22 2025,49.99,USD,SUBSCRIPTION,completed
+TXN007,Fatima Khan,2025-01-25,199.99,,enterprise,completed
+TXN008,george,01/28/2025,FREE,USD,trial,active
+TXN009,Diana Prince,2025-02-01,0,USD,Free,active
+TXN010,Alice Williams,2025-02-03,-15.00,USD,refund,completed

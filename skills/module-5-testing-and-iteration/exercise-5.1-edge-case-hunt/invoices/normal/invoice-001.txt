@@ -1,0 +1,19 @@
+ACME CORPORATION
+Invoice #INV-2025-001
+Date: February 1, 2025
+Due Date: March 1, 2025
+
+Bill To: Panaversity
+
+| Description | Qty | Unit Price | Total |
+|-------------|-----|-----------|-------|
+| Cloud Hosting (Monthly) | 1 | $299.00 | $299.00 |
+| SSL Certificate | 2 | $49.99 | $99.98 |
+| Domain Registration | 1 | $14.99 | $14.99 |
+
+Subtotal: $413.97
+Tax (8%): $33.12
+Total: $447.09
+Currency: USD
+
+Payment: Bank Transfer to ACME Corp, Account #1234567

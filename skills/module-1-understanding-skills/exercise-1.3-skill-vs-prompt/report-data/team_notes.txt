@@ -1,0 +1,13 @@
+Highlights:
+- Payment timeout fix went live Tuesday, mobile conversion up 15% since
+- Database migration completed with zero downtime — Sara nailed it
+- New signups trending up 12% week-over-week, organic traffic driving it
+
+Blockers:
+- User interviews blocked: recruiting tool contract expired, procurement says 2 weeks to renew
+- Omar's investor slides overdue — he's been pulled into fundraising calls all week
+- Security audit firm hasn't confirmed March date yet
+
+Team:
+- Ahmed feeling stretched between design and research work
+- New hire (Zara) starts Monday — Sara will onboard her

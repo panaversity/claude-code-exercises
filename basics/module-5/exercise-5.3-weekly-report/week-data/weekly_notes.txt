@@ -1,0 +1,33 @@
+Week of Feb 3-7, 2025 — Team Highlights & Blockers
+
+HIGHLIGHTS:
+- Authentication bug that was affecting 3% of users is now fixed! Sara knocked this 
+  out in 2 days. Customer complaints have already dropped.
+- Page load times improved from 2.3s to 1.8s after Sara's optimization work. Still 
+  not at our 1.5s target but great progress.
+- Fatima completed 3 of 5 user research interviews. Initial feedback on the new 
+  features is very positive — users love the simplified dashboard.
+- New signups up 15% week-over-week. Attribution suggests the blog post Ahmed 
+  wrote about "AI for Small Business" is driving traffic.
+- NPS score trending up for the third consecutive week.
+
+BLOCKERS:
+- Omar's board presentation is overdue. He's been pulled into the hiring process 
+  and hasn't had time. Needs help or a deadline extension.
+- Fatima's customer feedback report is also overdue — she deprioritized it for the 
+  user research (probably the right call, but it needs to get done).
+- Ali is blocked on the database migration planning — waiting for the vendor to 
+  provide migration tooling documentation. Followed up twice, no response.
+- Still haven't heard back from the security audit firm about scheduling.
+
+TEAM MORALE:
+Overall good. The team celebrated Sara's bug fix with a virtual high-five session. 
+Ahmed feels stretched thin between design work and content creation — might need 
+to revisit his workload in next sprint planning.
+
+NEXT WEEK PRIORITIES:
+1. Complete user research interviews (Fatima)
+2. Finish landing page mockups (Ahmed)
+3. Ship API documentation (Ali)
+4. Board presentation — MUST be done by Wed (Omar)
+5. Continue page load optimization (Sara)

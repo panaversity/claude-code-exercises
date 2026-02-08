@@ -1,0 +1,20 @@
+Subject: New initiative — please read
+
+Hi team,
+
+Wanted to share something exciting. We're launching a new AI-native development track starting next month, and I need your help shaping it.
+
+Here's what I'm thinking:
+- 5-module course focused on Claude Code and Cowork
+- Target audience: developers transitioning to AI-driven workflows
+- Format: hands-on exercises with real projects, not lectures
+
+I've attached a rough outline. Would love your feedback by Friday — especially on:
+1. Are the exercise topics relevant to what students actually struggle with?
+2. Is the progression logical?
+3. What's missing?
+
+Don't hold back — candid feedback is exactly what I need right now.
+
+Thanks everyone,
+Zia

@@ -1,0 +1,15 @@
+February highlights:
+- New onboarding flow launched Feb 10. Early data: activation rate up 18% (target was 10-15%)
+- Hired 2 senior engineers (finally!). Start dates: March 3 and March 10
+- East region bounced back — recovered one lost account (BlueShift) and signed 2 new ones
+- Database connection pooling fix deployed Feb 7 — zero API incidents since
+
+Challenges:
+- Marketing spend ran 12% over budget due to unplanned social campaign
+- Customer reported data export bug affecting large accounts (>10K records)
+- Competitor MegaWidget announced enterprise tier at 20% below our pricing
+
+Other:
+- Q1 board meeting moved to March 20 (was March 15)
+- Sara promoted to Engineering Lead
+- Planning to launch Widget C beta in April

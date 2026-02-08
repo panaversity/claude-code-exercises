@@ -1,0 +1,10 @@
+JAVA JUNCTION CAFE
+Date: January 30, 2025
+
+Cappuccino             $5.00
+Croissant              $3.50
+
+Total:                 $8.50
+Tip:                   $1.50
+Charged:              $10.00
+Visa ending 8832

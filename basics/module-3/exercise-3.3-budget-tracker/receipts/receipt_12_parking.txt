@@ -1,0 +1,12 @@
+CITY PARKING GARAGE
+Ticket #: P-4421
+Date: Jan 29, 2025
+
+Entry: 9:00 AM
+Exit: 2:30 PM
+Duration: 5.5 hours
+
+Rate: $4/hour
+Total: $22.00
+
+Credit Card ****1234

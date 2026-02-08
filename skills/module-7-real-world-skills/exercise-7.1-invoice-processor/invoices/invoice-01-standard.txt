@@ -1,0 +1,13 @@
+CloudHost Pro
+Invoice #CH-2025-0100
+Date: 2025-02-01
+Due: 2025-03-01
+
+Professional Hosting Plan: $149.00
+SSL Certificate: $29.00
+Domain Privacy: $12.00
+
+Subtotal: $190.00
+Tax (8%): $15.20
+Total: $205.20
+Currency: USD

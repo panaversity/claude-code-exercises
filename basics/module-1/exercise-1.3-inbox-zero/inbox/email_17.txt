@@ -1,0 +1,11 @@
+Reminder: Dentist Appointment Tomorrow
+From: appointments@smileclinic.com
+Date: February 5, 2025
+
+This is a reminder of your appointment:
+Date: February 6, 2025
+Time: 3:30 PM
+Doctor: Dr. Rashid
+Location: Smile Clinic, 45 Health Avenue
+
+To reschedule, call (555) 123-4567 or reply to this email.

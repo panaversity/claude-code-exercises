@@ -1,0 +1,22 @@
+Product Review — Feb 12, 2025, 2:00 PM
+Present: Ali (PM), Sara (Eng Lead), Ahmed (Design), Fatima (Marketing)
+
+Ali started by going over the sprint. Dashboard redesign is at 80%, should be done by Friday. Sara mentioned the API is running 40% faster after the optimization work last week.
+
+Ahmed showed the new onboarding mockups. Everyone liked the simplified flow but Fatima pointed out the copy on step 3 is confusing — "what does 'configure your workspace' even mean to a beginner?"
+
+Quick tangent — Fatima's cat jumped on her keyboard during the video call and everyone laughed for like 2 minutes. Ali eventually got things back on track.
+
+Sara raised a concern: the new features are increasing the test suite runtime from 10 to 25 minutes. She wants to invest in parallel test infrastructure. Ali said they'd discuss it in the next sprint planning.
+
+Ahmed needs final copy from Fatima by Thursday for the onboarding screens. Fatima said she'd have it Wednesday evening.
+
+Decisions:
+- Ship dashboard redesign as-is, iterate based on user feedback
+- Simplify onboarding step 3 copy (Fatima owns this)
+- Defer test infrastructure discussion to sprint planning (Feb 19)
+
+Ali asked about the competitor analysis — Fatima hasn't started it yet. It's not urgent but she'll try to get to it next week.
+
+Meeting ended at 2:45 PM (15 min early for once!)
+Next meeting: Feb 19 at 2:00 PM

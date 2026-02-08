@@ -1,0 +1,5 @@
+URGENT: Server Down - Need Immediate Help
+From: ops-team@company.com
+Date: February 5, 2025 8:45 AM
+
+The production server went down at 8:30 AM. Users are reporting 500 errors across all endpoints. The DevOps team is investigating but needs someone from the backend team to check the recent deployment. Can you look into this ASAP? This is blocking all customers.

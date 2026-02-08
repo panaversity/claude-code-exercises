@@ -1,0 +1,11 @@
+Invoice #INV-2025-0089
+From: billing@cloudhost.io
+Date: February 1, 2025
+
+Invoice for January 2025
+Account: Professional Plan
+Amount: $49.00
+Due Date: February 15, 2025
+Status: Auto-pay enabled
+
+Your payment will be automatically processed. No action needed.

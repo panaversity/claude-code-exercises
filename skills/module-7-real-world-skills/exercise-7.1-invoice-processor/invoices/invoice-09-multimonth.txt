@@ -1,0 +1,20 @@
+SaaS Platform Corp
+Quarterly Invoice: SPC-Q1-2025
+Billing Period: Jan 1 - Mar 31, 2025
+Issued: April 1, 2025
+Due: April 15, 2025
+
+Enterprise Plan:
+  January: $2,500.00
+  February: $2,500.00
+  March: $2,500.00
+
+Additional Users (3 @ $50/mo x 3 months): $450.00
+API Overage (Jan: 12K calls over limit @ $0.01): $120.00
+
+Subtotal: $8,070.00
+Discount (annual commitment, 10%): -$807.00
+Net: $7,263.00
+Tax (0%): $0.00
+Total: $7,263.00
+USD

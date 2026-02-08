@@ -1,0 +1,11 @@
+id,first_name,last_name,email,phone,signup_date,city,plan
+1,john,smith,john.smith@email.com,(555) 123-4567,01/15/2024,New York,pro
+2,JANE,DOE,jane.doe@email.com,555.234.5678,"Jan 20, 2024",los angeles,free
+3,Bob,Jones,bob.jones@email.com,+1-555-345-6789,2024-01-25,Chicago,pro
+4,alice,WILLIAMS,alice.w@email.com,5554567890,"February 1, 2024",Houston,enterprise
+5,John,Smith,john.smith@email.com,(555) 123-4567,01/15/2024,New York,pro
+6,Charlie,Brown,charlie.b@email.com,,2024-02-10,Phoenix,pro
+7,DIANA,prince,diana.p@email.com,555 678 9012,Feb 15 2024,,free
+8,,Norton,edward.n@email.com,(555)789-0123,02/20/2024,San Antonio,pro
+9,Fatima,Khan,fatima.k@email.com,+92-300-1234567,2024-03-01,Lahore,enterprise
+10,George,,george@email.com,555-890-1234,"March 5, 2024",Dallas,

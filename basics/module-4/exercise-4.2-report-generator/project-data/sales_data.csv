@@ -1,0 +1,25 @@
+month,region,product,units_sold,revenue,returns
+Jan-2025,North,Widget A,1250,62500,45
+Jan-2025,North,Widget B,830,49800,22
+Jan-2025,South,Widget A,980,49000,38
+Jan-2025,South,Widget B,1100,66000,15
+Jan-2025,East,Widget A,750,37500,52
+Jan-2025,East,Widget B,620,37200,8
+Jan-2025,West,Widget A,1400,70000,30
+Jan-2025,West,Widget B,950,57000,18
+Feb-2025,North,Widget A,1350,67500,40
+Feb-2025,North,Widget B,900,54000,25
+Feb-2025,South,Widget A,1050,52500,42
+Feb-2025,South,Widget B,1200,72000,12
+Feb-2025,East,Widget A,680,34000,55
+Feb-2025,East,Widget B,700,42000,10
+Feb-2025,West,Widget A,1500,75000,28
+Feb-2025,West,Widget B,1020,61200,20
+Mar-2025,North,Widget A,1100,55000,60
+Mar-2025,North,Widget B,950,57000,30
+Mar-2025,South,Widget A,1150,57500,35
+Mar-2025,South,Widget B,1050,63000,18
+Mar-2025,East,Widget A,600,30000,48
+Mar-2025,East,Widget B,580,34800,12
+Mar-2025,West,Widget A,1600,80000,25
+Mar-2025,West,Widget B,1100,66000,15

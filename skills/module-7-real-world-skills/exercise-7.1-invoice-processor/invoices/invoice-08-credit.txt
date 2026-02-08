@@ -1,0 +1,11 @@
+CloudHost Pro
+CREDIT MEMO #CM-2025-015
+Date: 2025-02-20
+Ref: Original Invoice #CH-2025-0100
+
+Refund for service outage (Feb 14, 4 hours):
+Pro-rated hosting credit: -$19.83
+Service Level Agreement credit: -$50.00
+
+Total Credit: -$69.83
+To be applied to next billing cycle.

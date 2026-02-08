@@ -1,0 +1,9 @@
+employee_id,full_name,department,hire_date,salary,email,location,status
+E001,ali hassan khan,Engineering,15-Jan-2023,85000,ali.khan@company.com,"lahore, pakistan",active
+E002,SARA AHMED,engineering,2023-02-20,"$92,000",sara@company.com,Karachi,Active
+E003,Ahmed Raza,Design,March 1 2023,78000,ahmed.raza@company.com,"lahore, Pakistan",active
+E004,fatima malik,MARKETING,2023-3-15,"72,000",fatima.m@company.com,Islamabad,on leave
+E005,Omar Sheikh,Engineering,04/01/2023,95000,omar@company.com,"Lahore, Pakistan",active
+E006,Ali Hassan Khan,Engineering,15-Jan-2023,85000,ali.khan@company.com,"Lahore, Pakistan",active
+E007,Zara Khan,design,2023-05-10,"80,000",,"karachi, pakistan",Active
+E008,Hassan Ali,Sales,"May 15, 2023",70000,hassan.ali@company.com,"Islamabad, Pakistan",Terminated

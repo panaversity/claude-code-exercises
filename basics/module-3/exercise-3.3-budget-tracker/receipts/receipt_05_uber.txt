@@ -1,0 +1,14 @@
+Uber Receipt
+Trip on Jan 19, 2025
+
+Pickup: 123 Home St
+Dropoff: Downtown Convention Center
+Distance: 8.3 miles
+
+Base fare:            $3.50
+Distance:             $8.30
+Time:                 $4.20
+Service fee:          $2.75
+
+Total:              $18.75
+Paid with Visa ****8832

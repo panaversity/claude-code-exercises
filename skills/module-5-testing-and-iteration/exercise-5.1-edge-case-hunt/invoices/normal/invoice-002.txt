@@ -1,0 +1,17 @@
+TechSupply Ltd.
+Invoice Number: TS-8834
+Invoice Date: 2025-02-10
+Payment Due: 2025-03-10
+
+Client: Panaversity
+
+Items:
+1. Laptop Stand x5 @ $34.99 each = $174.95
+2. USB-C Hub x10 @ $24.99 each = $249.90
+3. Webcam HD x5 @ $59.99 each = $299.95
+
+Subtotal: $724.80
+Sales Tax (6%): $43.49
+Grand Total: $768.29
+
+Currency: USD

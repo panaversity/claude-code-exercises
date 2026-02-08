@@ -1,0 +1,46 @@
+Product Launch Planning - Feb 5 2025 - 2pm
+ppl there: Ali (PM), Sara (eng lead), Ahmed (design), Fatima (marketing), Omar (sales)
+
+ali kicked off - said we need to lock down launch date
+sara said eng needs 3 more weeks minimum to fix the payment bug and the 
+performance issues on mobile. she was pretty firm about this
+ahmed jumped in - said design is ready, all assets done, just waiting on
+final copy from fatima's team
+
+fatima - marketing plan ready BUT she needs 2 weeks lead time before launch
+to coordinate press outreach and social media campaign
+"we can't just flip a switch, I need time to brief the journalists"
+
+sidebar: omar mentioned that BigCorp client is threatening to walk if we 
+don't launch by march 1. ali seemed stressed about this.
+
+some debate about whether to do a soft launch first or go big
+- sara wants soft launch (less risk)
+- omar wants big launch (BigCorp is watching)
+- ahmed suggested phased approach: soft launch march 1, big push march 15
+
+everyone seemed to like ahmed's idea actually
+
+oh also sara mentioned they need to hire 2 more backend devs
+ali said budget is approved but HR is slow
+fatima offered to help speed up recruiting through her linkedin network
+
+random - someone brought up the office coffee machine is broken again lol
+ali said he'd email facilities
+
+decisions made:
+- march 1 soft launch, march 15 full launch (pending sara confirming eng timeline)
+- fatima to start press outreach feb 15
+- ahmed to finalize all launch assets by feb 20
+
+things ppl need to do:
+sara - confirm march 1 is doable by friday feb 7
+fatima - draft press release by feb 10
+ahmed - share final asset list with fatima by feb 7  
+omar - talk to BigCorp, reassure them about march timeline
+ali - email HR about hiring, email facilities about coffee machine
+
+meeting ran over by 15 min, sara had to leave for another call
+next meeting: feb 12 same time
+
+ali mentioned something about Q2 planning but we ran out of time

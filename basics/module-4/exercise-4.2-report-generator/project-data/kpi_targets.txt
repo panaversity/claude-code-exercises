@@ -1,0 +1,22 @@
+Q1 2025 KPI Targets vs Actuals
+
+Revenue Target: $1,200,000
+Revenue Actual: $1,209,500 ✓ (100.8%)
+
+Units Target: 20,000
+Units Actual: 19,565 ✗ (97.8%)
+
+Return Rate Target: < 3%
+Return Rate Actual: 2.9% ✓ (borderline)
+
+Customer Satisfaction Target: 4.0/5.0
+Customer Satisfaction Actual: 3.8/5.0 ✗
+
+New Accounts Target: 50
+New Accounts Actual: 62 ✓
+
+Region Targets:
+- North: $346,800 target → $345,800 actual (99.7%)
+- South: $359,000 target → $360,000 actual (100.3%)
+- East: $215,500 target → $215,500 actual (100.0%)
+- West: $279,200 target → $409,200 actual (146.6%) ★ Top performer

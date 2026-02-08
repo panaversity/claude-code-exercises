@@ -1,0 +1,10 @@
+IMPORTANT: Password Reset Required
+From: security@company.com
+Date: February 4, 2025
+
+As part of our quarterly security protocol, all employees must reset their passwords by February 8, 2025. Please visit security.company.com/reset to update your credentials.
+
+Requirements:
+- Minimum 12 characters
+- Must include uppercase, lowercase, number, and special character
+- Cannot reuse last 5 passwords

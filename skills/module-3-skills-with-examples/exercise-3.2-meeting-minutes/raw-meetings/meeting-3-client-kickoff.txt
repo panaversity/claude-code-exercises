@@ -1,0 +1,31 @@
+Client Kickoff: CloudSync SaaS Project — Feb 14, 2025, 11:00 AM
+Attendees: Ali (our PM), Ahmed (our design lead), Zara (CloudSync CEO), Naveed (CloudSync CTO)
+
+ali introduced the team and outlined the project scope: brand identity redesign + marketing website + dashboard UI
+
+zara explained what they want: "we've outgrown our startup look. we're going after enterprise customers now and our brand needs to reflect that. think professional but not boring."
+
+naveed added technical requirements: website must be fast (under 2 second load time), mobile-first, and integrate with their existing analytics. they use Google Analytics and Mixpanel.
+
+ahmed asked about brand direction. zara said she likes the Stripe and Linear aesthetics — clean, modern, confident. she specifically DOESN'T want the generic "blue gradient SaaS look."
+
+ali proposed a 3-phase approach:
+phase 1 (4 weeks): brand identity — logo, colors, typography, brand guidelines doc
+phase 2 (6 weeks): marketing website — design + development
+phase 3 (4 weeks): dashboard UI refresh — apply new brand to their existing product
+
+zara approved the phasing. total timeline: 14 weeks, targeting completion by end of may.
+
+budget discussion: total project is $7,500. payment terms: 30% upfront ($2,250), 30% after phase 1, 40% on completion. naveed asked if they could do monthly payments instead. ali said he'd check with finance and confirm by monday.
+
+naveed asked about hosting. ali said that's outside our scope but we can recommend options. ahmed suggested Vercel for the marketing site.
+
+zara's one non-negotiable: "I want to be involved in every design review. I don't want surprises." ali assured her they'd have weekly check-ins and she'd approve every major deliverable.
+
+next steps:
+- ali sends SOW by monday feb 17
+- ahmed sends brand questionnaire to zara by feb 17
+- zara sends competitor examples she likes/dislikes by feb 18
+- first brand concepts review: feb 28
+
+meeting ended at 11:50 AM

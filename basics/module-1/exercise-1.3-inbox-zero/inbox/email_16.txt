@@ -1,0 +1,17 @@
+Client Feedback on Beta Release
+From: client.zara@bigcorp.com
+Date: February 5, 2025 2:00 PM
+
+Hi team,
+
+We tested the beta release over the weekend. Overall very impressed with the improvements! A few items:
+
+1. The dashboard loads 3x faster — great job!
+2. Export to PDF is broken — gets stuck at 90%
+3. The new filter feature works perfectly
+4. Mobile layout has some alignment issues on iPad
+
+Can we get items 2 and 4 fixed before the March 1 launch? Happy to hop on a call to discuss.
+
+Best,
+Zara

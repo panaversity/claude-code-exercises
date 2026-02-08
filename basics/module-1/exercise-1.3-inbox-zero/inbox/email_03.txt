@@ -1,0 +1,8 @@
+Your Amazon Order Has Shipped!
+From: ship-confirm@amazon.com
+Date: February 4, 2025
+
+Your order #112-3456789-0000000 has shipped!
+Estimated delivery: February 7, 2025
+Item: USB-C Hub Adapter - $29.99
+Tracking: 1Z999AA10123456784
