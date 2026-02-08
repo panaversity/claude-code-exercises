@@ -1,9 +1,11 @@
 # Capstone B — Small Business Operations Kit
 
 ## Your Mission
+
 Create a complete operational toolkit for a fictional small business: **"Pixel Perfect Design Studio"** — a 5-person graphic design agency.
 
 ## Business Context
+
 - **Services:** Logo design, brand identity, social media graphics, website mockups
 - **Team:** Founder (you), 2 senior designers, 1 junior designer, 1 admin/project manager
 - **Pricing:** Logo design $500-$2000, Brand identity $3000-$8000, Social media package $800/month
@@ -12,7 +14,9 @@ Create a complete operational toolkit for a fictional small business: **"Pixel P
 - **Monthly expenses:** ~$18,000
 
 ## Deliverables
+
 Ask Claude to create ALL of the following (each as a separate file):
+
 1. **Invoice template** — With auto-calculations, your business details, payment terms
 2. **Client tracker spreadsheet** — Name, project, status, deadline, payment status, total value
 3. **Weekly metrics dashboard** — Revenue, active projects, utilization rate, pipeline value
@@ -25,5 +29,10 @@ Ask Claude to create ALL of the following (each as a separate file):
 5. **Monthly report template** — Revenue, expenses, profit, project summary, next month outlook
 6. **Operations manual** — Team roles, project workflow, client communication standards, tool list
 
+## Reference Data
+
+See `business-details.md` for full company information including team details with roles and rates, active client list with project values and deadlines, financial summary, and payment terms. Use this data to make your deliverables realistic.
+
 ## Quality Bar
+
 All files should be consistent in branding (use the business name, consistent styling) and should cross-reference each other where relevant.

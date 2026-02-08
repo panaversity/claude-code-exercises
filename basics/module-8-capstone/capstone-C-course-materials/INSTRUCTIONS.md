@@ -1,12 +1,15 @@
 # Capstone C — The Course Material Generator
 
 ## Your Mission
+
 Create a complete 5-lesson mini-course on: **"AI Tools for Everyday Productivity"**
 
 Target audience: Working professionals with no technical background.
 
 ## Deliverables
+
 Ask Claude to create ALL of the following:
+
 1. **course-outline.md** — 5-lesson course with objectives, topics, and time estimates
 2. **lesson-plans/** (5 files) — Detailed plan for each lesson with:
    - Learning objectives
@@ -18,7 +21,12 @@ Ask Claude to create ALL of the following:
 5. **reading-list.md** — 10 recommended resources with 1-sentence summaries
 6. **presentation.pptx** — Slide deck for Lesson 1 (the intro lesson)
 
+## Reference Material
+
+See `course-brief.md` for a detailed course outline with lesson-by-lesson topics, philosophy, and assessment guidance. Use it as your starting point — you can adjust the structure.
+
 ## Quality Requirements
+
 - Each lesson builds on the previous one (progressive difficulty)
 - Worksheets should be hands-on (not just reading)
 - Quiz covers all 5 lessons proportionally

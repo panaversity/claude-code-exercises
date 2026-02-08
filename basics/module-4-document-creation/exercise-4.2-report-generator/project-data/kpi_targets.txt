@@ -1,7 +1,7 @@
 Q1 2025 KPI Targets vs Actuals
 
 Revenue Target: $1,200,000
-Revenue Actual: $1,209,500 ✓ (100.8%)
+Revenue Actual: $1,330,500 ✓ (110.9%)
 
 Units Target: 20,000
 Units Actual: 19,565 ✗ (97.8%)

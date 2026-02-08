@@ -1,6 +1,7 @@
 # Exercise 7.2 — The Specification Stress Test
 
 ## Your Task
+
 1. Write a set of instructions for Claude to create a specific output. Choose one:
    - A folder structure for a new project with specific files in specific locations
    - A formatted report from the data in `test_data.csv`
@@ -18,3 +19,5 @@
 5. Run the improved instructions and compare results.
 
 ## Test Data (if choosing the report option)
+
+The file `test_data.csv` contains 15 sales records with columns: date, product, quantity, price, customer, and region. Use this as your raw data when writing report specifications. The data covers January 2025, includes 5 products, 8 customers, and 4 regions — enough to test grouping, filtering, and summary calculations.
