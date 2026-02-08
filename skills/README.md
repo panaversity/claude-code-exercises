@@ -4,7 +4,11 @@
 
 Learn to turn one-off solutions into reusable Agent Skills that Claude follows automatically. Write the instructions once, and Claude follows them every time.
 
-**Prerequisites**: Chapter 3, Lesson 9 (Subagents & Orchestration). You understand custom instructions, skill concepts, agent skills, and subagent delegation.
+**Prerequisites**: These exercises are designed to be done alongside Chapter 3, Lessons 7-9:
+
+- **Module 1** → After Lesson 7 (The Concept Behind Skills)
+- **Modules 2-5** → After Lesson 8 (Agent Skills)
+- **Modules 6-8** → After Lesson 9 (Subagents & Orchestration)
 
 ---
 
