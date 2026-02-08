@@ -41,7 +41,7 @@ These build the core skill: turning messy real-world problems into clear specifi
 
 ```bash
 git clone https://github.com/panaversity/claude-code-exercises.git
-cd claude-code-exercises/basics/module-1/exercise-1.1-messy-downloads
+cd claude-code-exercises/basics/module-1-file-organization/exercise-1.1-messy-downloads
 claude
 # Read INSTRUCTIONS.md and start solving
 ```
